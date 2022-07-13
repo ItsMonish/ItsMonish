@@ -1,3 +1,4 @@
-Hi, Name is Monish Kumar
-Currently a UnderGrad student
-Interested in CyberSecurity, Crytography etc...
+- Hi, I'm Monish Kumar
+- Currently a UnderGrad student
+- Interested in CyberSecurity and related field
+- Linux enthusiast
