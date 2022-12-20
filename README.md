@@ -1,4 +1,4 @@
-- Hi, I'm Monish Kumar
-- Currently a UnderGrad student
+- UnderGrad student
 - Interested in CyberSecurity and related field
 - Linux enthusiast
+- I use arch btw
